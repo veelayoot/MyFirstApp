@@ -16,7 +16,11 @@ public class MyFirstApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println("Hello");
+        System.out.println("My name is Veelayoot Amnouchakthawee");
+        System.out.println("คณะเทคโนโลยีสารสนเทศและการสื่อสาร");
+        System.out.println("University of Phayao");
+        
         // TODO code application logic here
     }
     
